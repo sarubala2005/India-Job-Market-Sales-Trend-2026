@@ -35,4 +35,6 @@ Visualization: Designed an interactive dashboard with 6 key charts to represent 
 
 📈 Dashboard
 
+![Job Market Dasboard](https://github.com/user-attachments/assets/eb0da28c-7eb3-4477-9615-f71b3916443c)
+
 
