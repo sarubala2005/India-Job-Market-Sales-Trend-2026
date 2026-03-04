@@ -11,8 +11,28 @@ The primary goal of this project is to analyze the 2026 Indian job market trends
 🔍 Business Questions Addressed
 
 What is the average high salary for an ML Engineer?
+
 What is the minimum salary floor in Pune?
+
 What is the total number of job roles offered by Accenture?
+
 What is the salary range (Min to Max) for a Software Engineer?
+
 What is the total salary volume for the Onsite work model?
+
 What is the total job count in Noida?
+
+⚙️ Process
+
+Data Cleaning: Handled missing values and standardized city names and company titles using Excel.
+
+Data Processing: Created Pivot Tables to aggregate salaries by role and location.
+
+Analysis: Calculated average high/low salaries and identified hiring volumes per company.
+
+Visualization: Designed an interactive dashboard with 6 key charts to represent the findings visually.
+
+
+📈 Dashboard
+
+
